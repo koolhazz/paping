@@ -12,7 +12,7 @@ Cross-platform TCP port testing, emulating the functionality of ping (port ping)
 
 ## Can you help?
 
-**UDP** I realize that testing UDP ports is not reliable but it would be nice to add the feature - Know how? Please help the project ([papingproject@gmail.com](mailto:papingproject@gmail.com).
+**UDP** I realize that testing UDP ports is not reliable but it would be nice to add the feature - Know how? Please help the project ([papingproject@gmail.com](mailto:papingproject@gmail.com)).
 
 **Translation** Can you help translate the strings used, if so please check out the Wiki article 'Translation' for a list.
 
